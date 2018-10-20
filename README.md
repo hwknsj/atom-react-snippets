@@ -1,7 +1,7 @@
-Atom React.js Snippets [![Build Status](https://travis-ci.org/webbushka/atom-react-snippets.svg?branch=master)](https://travis-ci.org/webbushka/atom-react-snippets)
+Atom React.js Snippets (StandardJS)
 ====================================================================================================================================================================
 
-An [Atom](https://atom.io/) snippet library for React. This library uses ES6 syntax, if you would prefer ES5 or Coffeescript snippets please use the [Atom React Package](https://atom.io/packages/react).
+An [Atom](https://atom.io/) snippet library for React.js, based on the package by [AJ Webb](https://travis-ci.org/webbushka/atom-react-snippets). This library has been modified to use StandardJS formatting and ES6 syntax.
 
 Install
 -------
@@ -15,7 +15,7 @@ Development
 
 ```sh
 $ cd ~/.atom/packages
-$ git clone https://github.com/webbushka/atom-react-snippets.git
+$ git clone https://github.com/hwknsj/atom-react-snippets.git
 $ cd atom-react-snippets
 $ apm install
 $ apm link
@@ -114,7 +114,7 @@ Contributing
 License
 -------
 
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+[MIT License](http://zenorocha.mit-license.org/)
 
 Credit
 ------
