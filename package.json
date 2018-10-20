@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/hwknsj/atom-react-snippets",
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-lintspaces": "^0.3.0"
   }
 }
