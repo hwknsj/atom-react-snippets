@@ -1,15 +1,15 @@
 {
-  "name": "react-standard-snippets",
+  "name": "react-snippets-standard",
   "version": "1.1.2",
   "author": "hwknsj",
-  "description": "Atom Snippets for React, updated for standard format ES6 syntax",
-  "main": "./lib/react-standard-snippets",
+  "description": "Atom Snippets for React with ES6 StandardJS formatting",
+  "main": "./lib/react-snippets-standard",
   "scripts": {
     "test": "gulp"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webbushka/atom-react-snippets.git"
+    "url": "https://github.com/hwknsj/atom-react-snippets.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webbushka/atom-react-snippets/issues"
+    "url": "https://github.com/hwknsj/atom-react-snippets/issues"
   },
-  "homepage": "https://github.com/webbushka/atom-react-snippets",
+  "homepage": "https://github.com/hwknsj/atom-react-snippets",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-lintspaces": "^0.3.0"
